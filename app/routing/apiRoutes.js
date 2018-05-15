@@ -1,4 +1,4 @@
-var allPossibleFriends = require("app/data/friends.js");
+var allPossibleFriends = require("../data/friends.js");
 
 module.exports = function(app) {
 
